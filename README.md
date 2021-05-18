@@ -37,8 +37,6 @@ Inside Visual Studio, do the following to build:
 
 For those of you new to Visual Studio, this [video shows how to build, run, and debug](https://youtu.be/hZ_ZZy0j7Vk). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZ_ZZy0j7Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## macOS 
 
 On macOS, I recommend Visual Studio Code (VS Code) with clang as our C++ compiler and lldb as our C++ debugger. 
